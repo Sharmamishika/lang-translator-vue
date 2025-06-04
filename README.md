@@ -22,6 +22,7 @@ It interacts with an external translation API to translate text between multiple
 
 ![image](https://github.com/user-attachments/assets/7ec3d241-bcd2-48ff-a2b6-0ee3d7d4179a)
 
+![image](https://github.com/user-attachments/assets/dfc82a52-d2a7-423d-a40a-49b5ab72bf41)
 
 ---
 
