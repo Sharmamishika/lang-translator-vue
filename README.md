@@ -1,22 +1,50 @@
 # 🌐 Language Translator App (Vue + Vite)
 
-A simple language translator built using **Vue 3**, **TypeScript**, and **Vite**, powered by browser Speech API.
+# Vue Language Translator
+
+A simple and user-friendly language translator app built with **Vue.js**.  
+It interacts with an external translation API to translate text between multiple languages.
+
+---
 
 ## Features
 
-- Translate text to selected language
-- Speak translated text using Text-to-Speech
-- Clear translation history
+- Translate text between different languages using an external API  
+- Select source and target languages from dropdowns  
+- Swap source and target languages easily  
+- Responsive and clean user interface  
+- Loading indicators and error handling for better user experience  
+- Secure API key management using environment variables (no keys committed in repo)  
 
-## Tech Stack
+---
 
-- Vue 3
-- Vite
-- TypeScript
-- HTML5 Speech Synthesis API
+## Demo
 
-## Setup
+![image](https://github.com/user-attachments/assets/7ec3d241-bcd2-48ff-a2b6-0ee3d7d4179a)
 
-```bash
-pnpm install
-pnpm dev
+
+---
+
+## Technologies Used
+
+- Vue.js 3 (Composition API / Options API)  
+- Fetch API for HTTP requests  
+- Environment variables for secure API key management  
+- CSS for styling  
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine  
+- A translation API key (e.g., Google Translate API, LibreTranslate, etc.)  
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/lang-translator-vue.git
+   cd lang-translator-vue
